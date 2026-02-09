@@ -1,108 +1,85 @@
-# 👋 Hi, I'm Dorsa Salimi
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dorsasalimi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dorsasalimi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages" />
+</div>
 
-🚀 **Full-Stack Developer** focused on building scalable web applications, custom CMS platforms, and real-world products with clean architecture and modern technologies.
+###
 
-I enjoy turning complex business requirements into simple, maintainable systems — especially in **backend-heavy projects**, **e-commerce platforms**, and **real-time applications**.
+<h2 align="left">
+Hi, I'm Dorsa Salimi 👋<br/>
+Full-Stack Developer building scalable web apps, custom CMS platforms, and real-world systems.
+</h2>
 
----
+###
 
-## 🧠 What I Do Best
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
-- Design and build **custom CMS solutions** (not WordPress-style shortcuts)
-- Develop **REST & GraphQL APIs** with proper auth, roles, and permissions
-- Architect **product & order systems** with variants, stock, pricing, and transactions
-- Implement **JWT-based authentication** for multi-client apps
-- Build **real-time features** using WebSockets & Socket.IO
-- Focus on **clean data modeling**, scalability, and DX
+###
 
----
+<p align="left">
+I'm a <b>Full-Stack Developer</b> with a strong focus on backend architecture and system design.
+I specialize in building <b>custom CMS platforms</b>, <b>e-commerce systems</b>, and
+<b>real-time applications</b> using modern web technologies.
+<br/><br/>
+I care deeply about clean code, scalable data models, and building products that actually survive production.
+</p>
 
-## 🛠 Tech Stack
+###
 
-### Frontend
-- **React**, **Next.js**
-- Tailwind CSS
-- Context API / Zustand
-- Responsive & dashboard-style UIs
+<h3 align="left">🌐 Connect with me</h3>
 
-### Backend
-- **Node.js**, **Express**
-- **KeystoneJS**
-- GraphQL
-- REST APIs
-- JWT Authentication
-- Socket.IO (real-time chat & events)
+<div align="left">
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+  <a href="https://instagram.com/your-instagram" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+  <a href="https://discord.gg/your-discord" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+</div>
 
-### Database & Infrastructure
-- PostgreSQL
-- SQLite (for dev & lightweight setups)
-- Redis (caching, pub/sub concepts)
-- Role-based access control (RBAC)
-- Stock & transaction-based data modeling
+###
 
----
+<h3 align="left">🛠 Tech Stack</h3>
 
-## 🧩 Featured Projects
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+</div>
 
-### 🧱 Custom CMS Platform
-A fully custom CMS built with **Next.js + KeystoneJS**, supporting:
+###
 
-- Blog, product, category & media management
-- Dynamic product attributes & variants
-- Variant-level pricing & stock control
-- Role & permission system
-- JWT-based authentication
-- Modular and scalable schema design
+<h3 align="left">📌 What I Build</h3>
 
-> Built for real production use — not just a demo.
+<ul>
+  <li>Custom CMS platforms with role & permission systems</li>
+  <li>Backend-driven e-commerce systems with variants & stock control</li>
+  <li>REST & GraphQL APIs with JWT authentication</li>
+  <li>Real-time features using WebSockets & Socket.IO</li>
+  <li>Scalable database architectures</li>
+</ul>
 
----
+###
 
-### 🛒 E-Commerce System
-- Products with **dynamic attributes** (size, color, material, etc.)
-- Automatic variant generation
-- Per-variant price & stock tracking
-- Stock transactions (not just counters)
-- Order & order item system
-- Admin CMS + separate web frontend
+<br clear="both" />
 
----
+<img src="https://raw.githubusercontent.com/dorsasalimi/dorsasalimi/output/snake.svg" alt="Snake animation" />
 
-### 💬 Real-Time Chat Application
-- Live chat with Socket.IO
-- Message actions (delete, bulk select)
-- Right-click context menus
-- Admin & user separation
-- Integrated with CMS authentication
-
----
-
-## 📐 Engineering Principles I Care About
-
-- Clean & readable code
-- Proper separation of concerns
-- Scalable data models
-- Predictable APIs
-- Avoiding over-engineering (but also avoiding shortcuts)
-- Thinking like a backend engineer, even when doing frontend
-
----
-
-## 📈 Currently Improving
-- System design & backend architecture
-- Performance & caching strategies
-- Microservices concepts
-- Advanced database design
-- Linux fundamentals for production environments
-
----
-
-## 📫 Let’s Connect
-
-- GitHub: **You’re already here 😉**
-- Open to backend & full-stack roles
-- Always interested in challenging projects & real problems
-
----
-
-⭐ *If you like clean architecture, real-world systems, and thoughtful engineering — we’ll get along.*
