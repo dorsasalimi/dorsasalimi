@@ -1,14 +1,108 @@
-<h1 align="center">Hi 👋, I'm Dorsa Salimi</h1>
-<h3 align="center">A passionate full-stack developer from tehran,iran</h3>
+# 👋 Hi, I'm Dorsa Salimi
 
-- 🌱 I’m currently learning **node.js & game dev**
+🚀 **Full-Stack Developer** focused on building scalable web applications, custom CMS platforms, and real-world products with clean architecture and modern technologies.
 
-- 📫 How to reach me **dorsasalimi50@gmail.com**
+I enjoy turning complex business requirements into simple, maintainable systems — especially in **backend-heavy projects**, **e-commerce platforms**, and **real-time applications**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dorsasalimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dorsasalimi" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🧠 What I Do Best
+
+- Design and build **custom CMS solutions** (not WordPress-style shortcuts)
+- Develop **REST & GraphQL APIs** with proper auth, roles, and permissions
+- Architect **product & order systems** with variants, stock, pricing, and transactions
+- Implement **JWT-based authentication** for multi-client apps
+- Build **real-time features** using WebSockets & Socket.IO
+- Focus on **clean data modeling**, scalability, and DX
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- **React**, **Next.js**
+- Tailwind CSS
+- Context API / Zustand
+- Responsive & dashboard-style UIs
+
+### Backend
+- **Node.js**, **Express**
+- **KeystoneJS**
+- GraphQL
+- REST APIs
+- JWT Authentication
+- Socket.IO (real-time chat & events)
+
+### Database & Infrastructure
+- PostgreSQL
+- SQLite (for dev & lightweight setups)
+- Redis (caching, pub/sub concepts)
+- Role-based access control (RBAC)
+- Stock & transaction-based data modeling
+
+---
+
+## 🧩 Featured Projects
+
+### 🧱 Custom CMS Platform
+A fully custom CMS built with **Next.js + KeystoneJS**, supporting:
+
+- Blog, product, category & media management
+- Dynamic product attributes & variants
+- Variant-level pricing & stock control
+- Role & permission system
+- JWT-based authentication
+- Modular and scalable schema design
+
+> Built for real production use — not just a demo.
+
+---
+
+### 🛒 E-Commerce System
+- Products with **dynamic attributes** (size, color, material, etc.)
+- Automatic variant generation
+- Per-variant price & stock tracking
+- Stock transactions (not just counters)
+- Order & order item system
+- Admin CMS + separate web frontend
+
+---
+
+### 💬 Real-Time Chat Application
+- Live chat with Socket.IO
+- Message actions (delete, bulk select)
+- Right-click context menus
+- Admin & user separation
+- Integrated with CMS authentication
+
+---
+
+## 📐 Engineering Principles I Care About
+
+- Clean & readable code
+- Proper separation of concerns
+- Scalable data models
+- Predictable APIs
+- Avoiding over-engineering (but also avoiding shortcuts)
+- Thinking like a backend engineer, even when doing frontend
+
+---
+
+## 📈 Currently Improving
+- System design & backend architecture
+- Performance & caching strategies
+- Microservices concepts
+- Advanced database design
+- Linux fundamentals for production environments
+
+---
+
+## 📫 Let’s Connect
+
+- GitHub: **You’re already here 😉**
+- Open to backend & full-stack roles
+- Always interested in challenging projects & real problems
+
+---
+
+⭐ *If you like clean architecture, real-world systems, and thoughtful engineering — we’ll get along.*
