@@ -1,10 +1,5 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dorsasalimi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dorsasalimi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages" />
-</div>
 
 ###
-
 <h2 align="left">
 Hi, I'm Dorsa Salimi 👋<br/>
 Full-Stack Developer building scalable web apps, custom CMS platforms, and real-world systems.
@@ -12,12 +7,11 @@ Full-Stack Developer building scalable web apps, custom CMS platforms, and real-
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 ###
 
 <p align="left">
-I'm a <b>Full-Stack Developer</b> with a strong focus on backend architecture and system design.
+I'm a <b>Full-Stack Developer</b> with a strong focus on system design.
 I specialize in building <b>custom CMS platforms</b>, <b>e-commerce systems</b>, and
 <b>real-time applications</b> using modern web technologies.
 <br/><br/>
@@ -29,17 +23,8 @@ I care deeply about clean code, scalable data models, and building products that
 <h3 align="left">🌐 Connect with me</h3>
 
 <div align="left">
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:saliimidorsa@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-  <a href="https://instagram.com/your-instagram" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-  <a href="https://discord.gg/your-discord" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35"/>
   </a>
 </div>
 
@@ -71,15 +56,15 @@ I care deeply about clean code, scalable data models, and building products that
 
 <ul>
   <li>Custom CMS platforms with role & permission systems</li>
-  <li>Backend-driven e-commerce systems with variants & stock control</li>
-  <li>REST & GraphQL APIs with JWT authentication</li>
+  <li>Backend-driven e-commerce systems with dynamic attributes, variants & stock control</li>
+  <li>Modern frontend dashboards using React & Next.js</li>
+  <li>Clean, responsive UIs focused on usability and performance</li>
+  <li>REST & GraphQL APIs secured with JWT authentication</li>
   <li>Real-time features using WebSockets & Socket.IO</li>
-  <li>Scalable database architectures</li>
+  <li>Scalable database & system architectures</li>
 </ul>
+
 
 ###
 
-<br clear="both" />
-
-<img src="https://raw.githubusercontent.com/dorsasalimi/dorsasalimi/output/snake.svg" alt="Snake animation" />
 
