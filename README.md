@@ -1,7 +1,7 @@
 <b>
 Hi there! </b>
 <p>
-I'm<b> Dorsa</b>, a Full-stack developer + UI designer. Based in Tehran. In love with minimalism, pizza, and late-night coding (often from bed). Studying software engineering — building things that are simple, functional, and human.</p>
+I'm<b> Dorsa</b>, a Full-stack developer + UX designer. Based in Tehran. In love with minimalism, pizza, and late-night coding (often from bed). Studying software engineering — building things that are simple, functional, and human.</p>
 </p>
 -----------------------
 <p>Let's Connect</p>
